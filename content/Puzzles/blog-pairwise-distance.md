@@ -15,9 +15,6 @@ With $n$ pieces, there are ${n \choose 2}$ possible pairs. Your goal is to place
 Is this possible for all $n$? Why or why not?
 
 ### Hint
-*highlight spoilers to read them*
-
-{: .spoiler}
 It is not possible for all $n$. There is exactly one $n  \leq 6$ with no solutions. Can you find which one, and prove that it has no solutions?
 
 *A solution can be found [[blog-sol-pairwise-distance|here]].*
