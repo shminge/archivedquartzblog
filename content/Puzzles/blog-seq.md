@@ -16,13 +16,12 @@ Some Examples:
 Now, let's consider the sequence $a_{n} = f(a_{n-1})$, with $a_{0}$ some arbitrary choice. For a given choice of $a_{0}$, does $\{a_{n}\}$ loop or grow forever?
 
 ### Hints
-*highlight spoilers to read them*
 
 **Hint #1:**
-First, start by noting that the sequence is bijective. What does that tell you about its behaviour when it comes to loops?
+<span class="spoiler">First, start by noting that the sequence is bijective. What does that tell you about its behaviour when it comes to loops?</span>
 
 **Hint #2:**
-Let's say you have a number of length $n$. Will it ever reach a number of length $<n$?
+<span class="spoiler">Let's say you have a number of length $n$. Will it ever reach a number of length $&lt;n$?</span>
 
 
 *A solution can be found [[blog-sol-seq|here]].*
