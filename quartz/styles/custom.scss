@@ -1,13 +1,6 @@
 @use "./base.scss";
 
 .spoiler {
-    color: black;
-    background-color: black;
-    transition: color 0.3s, background-color 0.3s;
-  }
-  
-  .spoiler:hover,
-  .spoiler:focus {
-    color: white;
-    background-color: black;
-  }
+    background-color:#000000;
+    color:#000000;
+}
